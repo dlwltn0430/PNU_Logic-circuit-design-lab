@@ -1,0 +1,11 @@
+Fitter Status : Successful - Mon Dec 19 18:12:57 2022
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : fullSubtracter
+Top-level Entity Name : calculator
+Family : MAX V
+Device : 5M80ZT100C4
+Timing Models : Final
+Total logic elements : 26 / 80 ( 33 % )
+Total pins : 52 / 79 ( 66 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
